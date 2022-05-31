@@ -1,0 +1,7 @@
+<map id="sha1.h" name="sha1.h">
+<area shape="rect" id="node1" title="This file contains SHA&#45;1 definitions and functions." alt="" coords="71,5,136,32"/>
+<area shape="rect" id="node2" href="$crypto__builtin__primitives_8h.html" title=" " alt="" coords="5,80,201,107"/>
+<area shape="rect" id="node3" href="$crypto__driver__contexts__primitives_8h.html" title=" " alt="" coords="18,155,189,196"/>
+<area shape="rect" id="node4" href="$crypto__struct_8h.html" title="PSA cryptography module: Mbed TLS structured type implementations." alt="" coords="44,244,163,271"/>
+<area shape="rect" id="node5" href="$crypto_8h.html" title="Platform Security Architecture cryptography module." alt="" coords="66,319,141,345"/>
+</map>

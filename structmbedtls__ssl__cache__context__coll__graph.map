@@ -1,0 +1,4 @@
+<map id="mbedtls_ssl_cache_context" name="mbedtls_ssl_cache_context">
+<area shape="rect" id="node1" title="Cache context." alt="" coords="5,95,207,121"/>
+<area shape="rect" id="node2" href="$structmbedtls__ssl__cache__entry.html" title="This structure is used for storing cache entries." alt="" coords="13,5,199,32"/>
+</map>

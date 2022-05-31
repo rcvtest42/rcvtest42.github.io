@@ -1,0 +1,20 @@
+<map id="crypto_builtin_composites.h" name="crypto_builtin_composites.h">
+<area shape="rect" id="node1" title=" " alt="" coords="370,5,575,32"/>
+<area shape="rect" id="node2" href="$private__access_8h.html" title="Macro wrapper for struct&#39;s memebrs." alt="" coords="372,304,560,331"/>
+<area shape="rect" id="node3" href="$crypto__driver__common_8h.html" title="Definitions for all PSA crypto drivers." alt="" coords="225,80,435,107"/>
+<area shape="rect" id="node14" href="$cmac_8h.html" title="This file contains CMAC definitions and functions." alt="" coords="561,80,688,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="701,304,775,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,304,76,331"/>
+<area shape="rect" id="node6" href="$crypto__types_8h.html" title="PSA cryptography module: type aliases." alt="" coords="160,155,279,181"/>
+<area shape="rect" id="node13" href="$crypto__values_8h.html" title="PSA cryptography module: macros to build and analyze integer values." alt="" coords="310,229,435,256"/>
+<area shape="rect" id="node7" href="$crypto__platform_8h.html" title="PSA cryptography module: Mbed TLS platform definitions." alt="" coords="97,229,235,256"/>
+<area shape="rect" id="node8" href="$build__info_8h.html" title="Build&#45;time configuration info." alt="" coords="735,379,890,405"/>
+<area shape="rect" id="node12" href="$config__psa_8h.html" title="PSA crypto configuration options (set of defines)" alt="" coords="101,304,261,331"/>
+<area shape="rect" id="node9" href="$mbedtls__config_8h.html" title="Configuration options (set of defines)" alt="" coords="615,453,805,480"/>
+<area shape="rect" id="node10" href="$check__config_8h.html" title="Consistency checks for configuration options." alt="" coords="829,453,1004,480"/>
+<area shape="rect" id="node11" title=" " alt="" coords="881,528,952,555"/>
+<area shape="rect" id="node15" href="$cipher_8h.html" title="This file contains an abstraction interface for use with the cipher primitives provided by the librar..." alt="" coords="611,155,742,181"/>
+<area shape="rect" id="node16" href="$platform__util_8h.html" title="Common and shared functions used by multiple modules in the Mbed TLS library." alt="" coords="764,229,939,256"/>
+<area shape="rect" id="node17" href="$platform__time_8h.html" title="mbed TLS Platform time abstraction" alt="" coords="850,304,1034,331"/>
+<area shape="rect" id="node18" title=" " alt="" coords="977,379,1041,405"/>
+</map>

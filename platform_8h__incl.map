@@ -1,0 +1,12 @@
+<map id="platform.h" name="platform.h">
+<area shape="rect" id="node1" title="This file contains the definitions and functions of the Mbed TLS platform abstraction layer." alt="" coords="379,5,470,32"/>
+<area shape="rect" id="node2" href="$private__access_8h.html" title="Macro wrapper for struct&#39;s memebrs." alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node3" href="$build__info_8h.html" title="Build&#45;time configuration info." alt="" coords="217,155,371,181"/>
+<area shape="rect" id="node7" href="$platform__time_8h.html" title="mbed TLS Platform time abstraction" alt="" coords="269,80,453,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="426,155,490,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="527,80,594,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="619,80,689,107"/>
+<area shape="rect" id="node4" href="$mbedtls__config_8h.html" title="Configuration options (set of defines)" alt="" coords="96,229,287,256"/>
+<area shape="rect" id="node5" href="$check__config_8h.html" title="Consistency checks for configuration options." alt="" coords="311,229,485,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="363,304,433,331"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="crypto_types.h" name="crypto_types.h">
+<area shape="rect" id="node1" title="PSA cryptography module: type aliases." alt="" coords="86,5,205,32"/>
+<area shape="rect" id="node2" href="$crypto_8h.html" title="Platform Security Architecture cryptography module." alt="" coords="37,393,112,420"/>
+<area shape="rect" id="node3" href="$crypto__driver__common_8h.html" title="Definitions for all PSA crypto drivers." alt="" coords="261,80,445,107"/>
+<area shape="rect" id="node4" href="$crypto__builtin__composites_8h.html" title=" " alt="" coords="43,155,248,181"/>
+<area shape="rect" id="node5" href="$crypto__driver__contexts__composites_8h.html" title=" " alt="" coords="100,229,271,271"/>
+<area shape="rect" id="node7" href="$crypto__builtin__primitives_8h.html" title=" " alt="" coords="323,155,519,181"/>
+<area shape="rect" id="node8" href="$crypto__driver__contexts__primitives_8h.html" title=" " alt="" coords="336,229,507,271"/>
+<area shape="rect" id="node9" href="$crypto__se__driver_8h.html" title="PSA external cryptoprocessor driver module." alt="" coords="595,155,736,181"/>
+<area shape="rect" id="node6" href="$crypto__struct_8h.html" title="PSA cryptography module: Mbed TLS structured type implementations." alt="" coords="126,319,245,345"/>
+</map>

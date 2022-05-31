@@ -1,0 +1,12 @@
+<map id="chachapoly.h" name="chachapoly.h">
+<area shape="rect" id="node1" title="This file contains the AEAD&#45;ChaCha20&#45;Poly1305 definitions and functions." alt="" coords="177,5,283,32"/>
+<area shape="rect" id="node2" href="$private__access_8h.html" title="Macro wrapper for struct&#39;s memebrs." alt="" coords="5,155,193,181"/>
+<area shape="rect" id="node3" href="$build__info_8h.html" title="Build&#45;time configuration info." alt="" coords="218,155,373,181"/>
+<area shape="rect" id="node7" href="$poly1305_8h.html" title="This file contains Poly1305 definitions and functions." alt="" coords="212,80,363,107"/>
+<area shape="rect" id="node10" href="$chacha20_8h.html" title="This file contains ChaCha20 definitions and functions." alt="" coords="387,80,540,107"/>
+<area shape="rect" id="node4" href="$mbedtls__config_8h.html" title="Configuration options (set of defines)" alt="" coords="97,229,288,256"/>
+<area shape="rect" id="node5" href="$check__config_8h.html" title="Consistency checks for configuration options." alt="" coords="312,229,487,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="364,304,435,331"/>
+<area shape="rect" id="node8" title=" " alt="" coords="397,155,468,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="493,155,567,181"/>
+</map>

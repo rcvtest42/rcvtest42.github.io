@@ -1,0 +1,6 @@
+<map id="poly1305.h" name="poly1305.h">
+<area shape="rect" id="node1" title="This file contains Poly1305 definitions and functions." alt="" coords="17,5,112,32"/>
+<area shape="rect" id="node2" href="$chachapoly_8h.html" title="This file contains the AEAD&#45;ChaCha20&#45;Poly1305 definitions and functions." alt="" coords="11,80,118,107"/>
+<area shape="rect" id="node3" href="$crypto__struct_8h.html" title="PSA cryptography module: Mbed TLS structured type implementations." alt="" coords="5,155,124,181"/>
+<area shape="rect" id="node4" href="$crypto_8h.html" title="Platform Security Architecture cryptography module." alt="" coords="27,229,102,256"/>
+</map>
